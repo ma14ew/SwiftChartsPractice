@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9F161CF2-0362-447A-9D2A-BEC53047E0D8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F250F74F-269A-4E73-82C2-47FC8B78CB8B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftChartsPractice/ChartView/LineMarkChart.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1EC82BC-FC93-4670-B0AD-9C1FF5801A57"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftChartsPractice/ChartView/LineMarkChart.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "LineMarkChart"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "A1EC82BC-FC93-4670-B0AD-9C1FF5801A57 - 6b086c38162d1ce3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of SwiftChartsPractice.LineMarkChart.data : Swift.Array&lt;SwiftChartsPractice.WeightData&gt;"
+                  moduleName = "SwiftChartsPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matveymatyushko/Desktop/SwiftChartsPractice/SwiftChartsPractice/ChartView/LineMarkChart.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "A1EC82BC-FC93-4670-B0AD-9C1FF5801A57 - 8164da5af83502ee"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftChartsPractice.LineMarkChart.data.getter : Swift.Array&lt;SwiftChartsPractice.WeightData&gt;"
+                  moduleName = "SwiftChartsPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matveymatyushko/Desktop/SwiftChartsPractice/SwiftChartsPractice/ChartView/LineMarkChart.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "162">
+               </Location>
+               <Location
+                  uuid = "A1EC82BC-FC93-4670-B0AD-9C1FF5801A57 - f3b692ebc07ca6fa"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftChartsPractice.LineMarkChart.data.setter : Swift.Array&lt;SwiftChartsPractice.WeightData&gt;"
+                  moduleName = "SwiftChartsPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matveymatyushko/Desktop/SwiftChartsPractice/SwiftChartsPractice/ChartView/LineMarkChart.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "A1EC82BC-FC93-4670-B0AD-9C1FF5801A57 - b48f724946ff8bed"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftChartsPractice.LineMarkChart.data.modify : Swift.Array&lt;SwiftChartsPractice.WeightData&gt;"
+                  moduleName = "SwiftChartsPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matveymatyushko/Desktop/SwiftChartsPractice/SwiftChartsPractice/ChartView/LineMarkChart.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "214">
+               </Location>
+               <Location
+                  uuid = "A1EC82BC-FC93-4670-B0AD-9C1FF5801A57 - 377083bfa385875e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftChartsPractice.LineMarkChart.data.modify : Swift.Array&lt;SwiftChartsPractice.WeightData&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SwiftChartsPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matveymatyushko/Desktop/SwiftChartsPractice/SwiftChartsPractice/ChartView/LineMarkChart.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  uuid = "A1EC82BC-FC93-4670-B0AD-9C1FF5801A57 - 504d4b779f85b30a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftChartsPractice.LineMarkChart.$data.getter : SwiftUI.Binding&lt;Swift.Array&lt;SwiftChartsPractice.WeightData&gt;&gt;"
+                  moduleName = "SwiftChartsPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matveymatyushko/Desktop/SwiftChartsPractice/SwiftChartsPractice/ChartView/LineMarkChart.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "202">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CB8D607-1AF1-4754-BB71-460850C213F9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftChartsPractice/ChartView/LineMarkChart.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "LineMarkChart"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
